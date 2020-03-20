@@ -1,0 +1,6 @@
+{
+	"JENKINS_IP": "3.6.1.4",
+	"JENKINS_PORT": "8080",
+	"USERNAME": "apiuser",
+	"PASSWORD": ""
+}
