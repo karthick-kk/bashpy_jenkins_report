@@ -4,7 +4,7 @@ Scripts to generate build reports of all jobs. Reports include start, end time o
 ## Requirements:
 ```
  - jq
- - python
+ - python 2
 
 ```
 ## Usage:
